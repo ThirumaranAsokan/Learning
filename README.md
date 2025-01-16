@@ -12,7 +12,7 @@ https://www.docker.com/products/docker-desktop - Download first depends on your 
 https://git-scm.com/download/win   - download git for windows installer.
 
 **Notes : I am doing side by side so don't worry. if any mistake comes we'll face together.**
-#Setup
+# Setup
 Go start search windows feature turn off/on then check these three which has tick mark
 1.Hyper V
 2.Windows subsystem for linux
