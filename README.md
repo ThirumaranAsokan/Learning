@@ -17,8 +17,11 @@ Go start search windows feature turn off/on then check these three which has tic
 1.Hyper V
 2.Windows subsystem for linux
 3.Virtual Machine platform
-**Note i had only Windows subsytem for linux**
+[**Note i had only Windows subsytem for linux**]
 I am gonna install wsl how ? 
 Search powershell and run as admin 
-Prompt :  **wsl --intstall** ( it will take time for installing ubuntu)
+It will ask you to create use name use your name default(case sensitive).
+when entering password it won't show any so keep on mind, then restart computer.
+
+case Prompt :  **wsl --intstall** ( it will take time for installing ubuntu)
 
