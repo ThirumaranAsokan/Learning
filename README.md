@@ -14,9 +14,9 @@ https://git-scm.com/download/win   - download git for windows installer.
 **Notes : I am doing side by side so don't worry. if any mistake comes we'll face together.**
 # Setup
 Go start search windows feature turn off/on then check these three which has tick mark
-1.Hyper V
-2.Windows subsystem for linux
-3.Virtual Machine platform
+1. Hyper V
+2. Windows subsystem for linux
+3. Virtual Machine platform
 [**Note i had only Windows subsytem for linux**]
 need all three .
 I am gonna install wsl how ? 
@@ -34,12 +34,12 @@ next to verify docker install prompt : docker --version
 Last is git setup in shell 
 1. git --version
 2. 2.git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-3.git config --global core.autocrlf true
-4.ssh-keygen -t ed25519 -C "your.email@example.com"
+   git config --global user.email "your.email@example.com"
+3. git config --global core.autocrlf true
+4. ssh-keygen -t ed25519 -C "your.email@example.com"
 ![image](https://github.com/user-attachments/assets/fd1c906d-c083-45aa-b400-3047654939f1)
 
-
+Make sure login to docker lol.
 
 
 
