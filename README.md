@@ -11,4 +11,5 @@ https://www.docker.com/products/docker-desktop - Download first depends on your 
 #TOOLS
 https://git-scm.com/download/win   - download git for windows installer.
 
-**Notes : I am doing side by side do don't worry. if any mistake comes we'll face together.**
+**Notes : I am doing side by side so don't worry. if any mistake comes we'll face together.**
+#
