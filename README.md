@@ -32,11 +32,13 @@ next to verify docker install prompt : docker --version
 
 "You will be pissed of for restarting often "
 Last is git setup in shell 
+```bash
 1. git --version
 2. 2.git config --global user.name "Your Name"
    git config --global user.email "your.email@example.com"
 3. git config --global core.autocrlf true
 4. ssh-keygen -t ed25519 -C "your.email@example.com"
+```
 ![image](https://github.com/user-attachments/assets/fd1c906d-c083-45aa-b400-3047654939f1)
 
 Make sure login to docker lol.
